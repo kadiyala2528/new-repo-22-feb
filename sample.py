@@ -1,4 +1,5 @@
 a=5
 b=9
-sum = a + b
+c=8
+sum = a+b+c
 print sum
